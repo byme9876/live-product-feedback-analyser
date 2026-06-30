@@ -30,12 +30,11 @@ An AI-powered web application that analyzes customer reviews and identifies prod
 5. Download analysis reports
 
 ## Screenshots
-
 ### Dashboard
 ![Dashboard](screenshot/dashboard.png)
 
 ### Theme Analysis & Priority Pain Points
-![Theme-Analysis](screenshot/theme-analysis&priority_pain_points.png)
+![Theme-Analysis](screenshot/theme_analysis&priority_pain_points.png)
 
 ### Sentiment Analysis
 ![Sentiment Analysis](screenshot/sentiment_analysis.png)
@@ -51,6 +50,7 @@ An AI-powered web application that analyzes customer reviews and identifies prod
 
 ### Download Report Feature
 ![Download-Report](screenshot/download_report_button.png)
+
 ## Run Locally
 
 ```bash
