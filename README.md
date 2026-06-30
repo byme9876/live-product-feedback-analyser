@@ -35,22 +35,22 @@ An AI-powered web application that analyzes customer reviews and identifies prod
 ![Dashboard](screenshot/dashboard.png)
 
 ### Theme Analysis & Priority Pain Points
-![Theme Analysis](screenshot/theme-analysis&priority-pain-p....png)
+![Theme-Analysis](screenshot/theme-analysis&priority_pain_points.png)
 
 ### Sentiment Analysis
-![Sentiment Analysis](screenshot/sentiment-analysis.png)
+![Sentiment Analysis](screenshot/sentiment_analysis.png)
 
 ### Pie Chart
-![Pie Chart](screenshot/piechart.png)
+![Pie-Chart](screenshot/piechart.png)
 
 ### Bar Chart
-![Bar Chart](screenshot/bar-chart.png)
+![Bar-Chart](screenshot/bar_chart.png)
 
 ### Word Cloud
-![Word Cloud](screenshot/word-cloud.png)
+![Word-Cloud](screenshot/word_cloud.png)
 
 ### Download Report Feature
-![Download Report](screenshot/download-report-button.png)
+![Download-Report](screenshot/download_report_button.png)
 ## Run Locally
 
 ```bash
