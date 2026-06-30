@@ -35,6 +35,9 @@ An AI-powered web application that analyzes customer reviews and identifies prod
 
 ### Theme Analysis & Priority Pain Points
 ![Theme-Analysis](screenshot/theme_analysis&priority_pain_points.png)
+=======
+![Theme Analysis](screenshot/theme_analysis_priority_pain_points.png)
+
 
 ### Sentiment Analysis
 ![Sentiment Analysis](screenshot/sentiment_analysis.png)
@@ -43,6 +46,7 @@ An AI-powered web application that analyzes customer reviews and identifies prod
 ![Pie-Chart](screenshot/piechart.png)
 
 ### Bar Chart
+<<<<<<< HEAD
 ![Bar-Chart](screenshot/bar_chart.png)
 
 ### Word Cloud
@@ -51,6 +55,15 @@ An AI-powered web application that analyzes customer reviews and identifies prod
 ### Download Report Feature
 ![Download-Report](screenshot/download_report_button.png)
 
+=======
+![Bar Chart](screenshot/barchart.png)
+
+### Word Cloud
+![Word Cloud](screenshot/word_cloud.png)
+
+### Download Report Feature
+![Download Report](screenshot/download_report_button.png)
+>>>>>>> 0f354e0 (Renamed screenshot files)
 ## Run Locally
 
 ```bash
